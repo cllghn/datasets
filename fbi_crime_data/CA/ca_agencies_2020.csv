@@ -1,0 +1,741 @@
+ori,agency_name,state_name,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+CA0010000,Alameda County Sheriff's Office,California,CA,Pacific,West,Region IV,ALAMEDA,County,False,,37.802,-122.26236
+CA0010100,Alameda Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.766888,-122.24273
+CA0010200,Albany Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.887703,-122.29825
+CA0010300,Berkeley Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.870537,-122.27298
+CA0010400,Emeryville Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.648134,-121.913291
+CA0010500,Fremont Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.553017,-121.97069
+CA0010600,Hayward Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.662106,-122.08672
+CA0010700,Livermore Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.674633,-121.756935
+CA0010800,Newark Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.536236,-122.02951
+CA0010900,Oakland Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.79965,-122.27459
+CA0011000,Piedmont Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.824814,-122.23214
+CA0011100,Pleasanton Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.648134,-121.913291
+CA0011200,San Leandro Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.648134,-121.913291
+CA0011300,Union City Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.58882,-122.02747
+CA0011400,East Bay Regional Parks: Alameda County,California,CA,Pacific,West,Region IV,ALAMEDA,Other,False,,37.71378,-122.10035
+CA0011500,California State University: East Bay,California,CA,Pacific,West,Region IV,ALAMEDA,University or College,False,,37.658787,-122.062225
+CA0011600,Union Pacific Railroad: Alameda County,California,CA,Pacific,West,Region IV,ALAMEDA,Other,False,,37.798763,-122.24971
+CA0012100,San Francisco Bay Area Rapid Transit: Alameda County,California,CA,Pacific,West,Region IV,ALAMEDA,Other,False,,37.79742,-122.26664
+CA001300X,Dublin Police Department,California,CA,Pacific,West,Region IV,ALAMEDA,City,False,,37.799427,-122.262505
+CA0014100,Department of Parks and Recreation:,California,CA,Pacific,West,Region IV,ALAMEDA,Other State Agency,False,,,
+CA0019700,University of California: Berkeley,California,CA,Pacific,West,Region IV,ALAMEDA,University or College,False,,37.648134,-121.913291
+CA0019900,Highway Patrol: Alameda County,California,CA,Pacific,West,Region IV,ALAMEDA,State Police,False,,37.606228,-122.06034
+CA0020000,Alpine County Sheriff's Office,California,CA,Pacific,West,Region IV,ALPINE,County,False,,38.61761,-119.798999
+CA0029900,Highway Patrol: Alpine County,California,CA,Pacific,West,Region IV,ALPINE,State Police,False,,38.85127,-120.01934
+CA0030000,Amador County Sheriff's Office,California,CA,Pacific,West,Region IV,AMADOR,County,False,,38.352863,-120.7679
+CA0030200,Ione Police Department,California,CA,Pacific,West,Region IV,AMADOR,City,False,,38.44355,-120.653856
+CA0030300,Jackson Police Department,California,CA,Pacific,West,Region IV,AMADOR,City,False,,38.347904,-120.77274
+CA0030500,Sutter Creek Police Department,California,CA,Pacific,West,Region IV,AMADOR,City,False,,38.391117,-120.80235
+CA0030600,Union Pacific Railroad: Amador County,California,CA,Pacific,West,Region IV,AMADOR,Other,False,,37.798763,-122.24971
+CA0039900,Highway Patrol: Amador County,California,CA,Pacific,West,Region IV,AMADOR,State Police,False,,38.34309,-120.76263
+CA0040000,Butte County Sheriff's Office,California,CA,Pacific,West,Region IV,BUTTE,County,False,,39.665959,-121.601919
+CA0040200,Chico Police Department,California,CA,Pacific,West,Region IV,BUTTE,City,False,,39.735462,-121.81528
+CA0040300,Gridley Police Department,California,CA,Pacific,West,Region IV,BUTTE,City,False,,39.365505,-121.69721
+CA0040400,Oroville Police Department,California,CA,Pacific,West,Region IV,BUTTE,City,False,,39.508167,-121.554825
+CA0040500,Paradise Police Department,California,CA,Pacific,West,Region IV,BUTTE,City,False,,39.75336,-121.62395
+CA0040600,Union Pacific Railroad: Butte County,California,CA,Pacific,West,Region IV,BUTTE,Other,False,,37.798763,-122.24971
+CA0040700,Department of Parks and Recreation: Northern Buttes,California,CA,Pacific,West,Region IV,BUTTE,Other State Agency,False,,39.510296,-121.50341
+CA0049700,California State University: Chico,California,CA,Pacific,West,Region IV,BUTTE,University or College,False,,39.665959,-121.601919
+CA0049900,Highway Patrol: Butte County,California,CA,Pacific,West,Region IV,BUTTE,State Police,False,,39.665959,-121.601919
+CA0050000,Calaveras County Sheriff's Office,California,CA,Pacific,West,Region IV,CALAVERAS,County,False,,38.19131,-120.66931
+CA0050100,City of Angels Police Department,California,CA,Pacific,West,Region IV,CALAVERAS,City,False,,38.184618,-120.5594
+CA0050200,Union Pacific Railroad: Calaveras County,California,CA,Pacific,West,Region IV,CALAVERAS,Other,False,,38.184618,-120.5594
+CA0050300,Department of Parks and Recreation: Calaveras County,California,CA,Pacific,West,Region IV,CALAVERAS,Other State Agency,False,,38.184618,-120.5594
+CA0059900,Highway Patrol: Calaveras County,California,CA,Pacific,West,Region IV,CALAVERAS,State Police,False,,38.189983,-120.67146
+CA0060000,Colusa County Sheriff's Office,California,CA,Pacific,West,Region IV,COLUSA,County,False,,39.205734,-122.00377
+CA0060100,Colusa Police Department,California,CA,Pacific,West,Region IV,COLUSA,City,False,,39.21383,-122.009544
+CA0060200,Williams Police Department,California,CA,Pacific,West,Region IV,COLUSA,City,False,,39.177739,-122.237563
+CA0060300,Union Pacific Railroad: Colusa County,California,CA,Pacific,West,Region IV,COLUSA,Other,False,,37.798763,-122.24971
+CA0069900,Highway Patrol: Colusa County,California,CA,Pacific,West,Region IV,COLUSA,State Police,False,,39.177739,-122.237563
+CA0070000,Contra Costa County Sheriff's Office,California,CA,Pacific,West,Region IV,CONTRA COSTA,County,False,,38.01906,-122.13399
+CA0070100,Antioch Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0070200,Brentwood Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919037,-121.68469
+CA0070300,Clayton Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.94229,-121.93776
+CA0070400,Concord Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0070500,El Cerrito Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.916363,-122.31207
+CA0070600,Hercules Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,38.00937,-122.26571
+CA0070700,Pinole Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,38.00441,-122.290115
+CA0070800,Pittsburg Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0070900,Pleasant Hill Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.96205,-122.070656
+CA0071000,Richmond Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0071100,San Pablo Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0071200,Walnut Creek Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0071300,Kensington Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0071400,Martinez Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,38.01375,-122.13533
+CA0071500,Lafayette Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,38.01906,-122.13399
+CA0071600,Moraga Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,37.919479,-121.951543
+CA0071800,San Francisco Bay Area Rapid Transit: Contra Costa County,California,CA,Pacific,West,Region IV,CONTRA COSTA,Other,False,,37.919479,-121.951543
+CA0072100,Contra Costa Community College,California,CA,Pacific,West,Region IV,CONTRA COSTA,University or College,False,,38.01951,-122.13532
+CA007230X,Danville Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,38.01906,-122.13399
+CA007240X,San Ramon Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,,
+CA007260X,Orinda Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,,
+CA0073300,Union Pacific Railroad: Contra Costa County,California,CA,Pacific,West,Region IV,CONTRA COSTA,Other,False,,37.798763,-122.24971
+CA007340X,Oakley Police Department,California,CA,Pacific,West,Region IV,CONTRA COSTA,City,False,,,
+CA0079900,Highway Patrol: Contra Costa County,California,CA,Pacific,West,Region IV,CONTRA COSTA,State Police,False,,38.00525,-122.07482
+CA0080000,Del Norte County Sheriff's Office,California,CA,Pacific,West,Region IV,DEL NORTE,County,False,,41.75284,-124.20048
+CA0080100,Crescent City Police Department,California,CA,Pacific,West,Region IV,DEL NORTE,City,False,,41.754265,-124.20122
+CA008980X,Highway Patrol: Del Norte County,California,CA,Pacific,West,Region IV,DEL NORTE,State Police,False,,41.772213,-124.185356
+CA0090000,El Dorado County Sheriff's Office,California,CA,Pacific,West,Region IV,EL DORADO,County,False,,38.785532,-120.534398
+CA0090100,Placerville Police Department,California,CA,Pacific,West,Region IV,EL DORADO,City,False,,38.73032,-120.79018
+CA0090200,South Lake Tahoe Police Department,California,CA,Pacific,West,Region IV,EL DORADO,City,False,,38.933025,-119.97075
+CA009030X,Union Pacific Railroad: El Dorado County,California,CA,Pacific,West,Region IV,EL DORADO,Other,False,,37.798763,-122.24971
+CA0099900,Highway Patrol: El Dorado County,California,CA,Pacific,West,Region IV,EL DORADO,State Police,False,,38.785532,-120.534398
+CA0100000,Fresno County Sheriff's Office,California,CA,Pacific,West,Region IV,FRESNO,County,False,,36.761006,-119.655019
+CA0100100,Clovis Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.82397,-119.692795
+CA0100200,Coalinga Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.139175,-120.362045
+CA0100300,Firebaugh Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.761006,-119.655019
+CA0100400,Fowler Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.630894,-119.67752
+CA0100500,Fresno Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.761006,-119.655019
+CA0100600,Huron Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.761006,-119.655019
+CA0100700,Kerman Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.722088,-120.06027
+CA0100800,Kingsburg Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.761006,-119.655019
+CA0100900,Mendota Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.759174,-120.373276
+CA0101000,Orange Cove Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.761006,-119.655019
+CA0101100,Parlier Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.761006,-119.655019
+CA0101200,Reedley Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.598927,-119.453575
+CA0101300,Sanger Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.70591,-119.56111
+CA0101500,Selma Police Department,California,CA,Pacific,West,Region IV,FRESNO,City,False,,36.567337,-119.611984
+CA0101700,State Center Community College District,California,CA,Pacific,West,Region IV,FRESNO,University or College,False,,36.739437,-119.79724
+CA0102400,Union Pacific Railroad: Fresno County,California,CA,Pacific,West,Region IV,FRESNO,Other,False,,37.798763,-122.24971
+CA0103000,Department of Parks and Recreation: San Joaquin,California,CA,Pacific,West,Region IV,FRESNO,Other State Agency,False,,36.761006,-119.655019
+CA0103500,Clovis Unified School District,California,CA,Pacific,West,Region IV,FRESNO,Other,False,,,
+CA0109700,California State University: Fresno,California,CA,Pacific,West,Region IV,FRESNO,University or College,False,,36.81583,-119.748314
+CA0109900,Highway Patrol: Fresno County,California,CA,Pacific,West,Region IV,FRESNO,State Police,False,,36.757477,-119.82758
+CA010M15M,Coalinga State Hospital,California,CA,Pacific,West,Region IV,FRESNO,Other State Agency,False,,,
+CA0110000,Glenn County Sheriff's Office,California,CA,Pacific,West,Region IV,GLENN,County,False,,39.602546,-122.4017
+CA0110100,Orland Police Department,California,CA,Pacific,West,Region IV,GLENN,City,False,,39.602546,-122.4017
+CA011030X,Union Pacific Railroad: Glenn County,California,CA,Pacific,West,Region IV,GLENN,Other,False,,37.798763,-122.24971
+CA0119900,Highway Patrol: Glenn County,California,CA,Pacific,West,Region IV,GLENN,State Police,False,,39.525166,-122.212036
+CA0120000,Humboldt County Sheriff's Office,California,CA,Pacific,West,Region IV,HUMBOLDT,County,False,,40.803238,-124.162575
+CA0120100,Arcata Police Department,California,CA,Pacific,West,Region IV,HUMBOLDT,City,False,,40.867355,-124.085144
+CA0120300,Eureka Police Department,California,CA,Pacific,West,Region IV,HUMBOLDT,City,False,,40.80052,-124.16893
+CA0120400,Ferndale Police Department,California,CA,Pacific,West,Region IV,HUMBOLDT,City,False,,40.706673,-123.925818
+CA0120500,Fortuna Police Department,California,CA,Pacific,West,Region IV,HUMBOLDT,City,False,,40.597363,-124.155525
+CA0120700,Rio Dell Police Department,California,CA,Pacific,West,Region IV,HUMBOLDT,City,False,,40.497326,-124.105644
+CA0120800,Humboldt State University,California,CA,Pacific,West,Region IV,HUMBOLDT,University or College,False,,40.706673,-123.925818
+CA012090X,Union Pacific Railroad: Humboldt County,California,CA,Pacific,West,Region IV,HUMBOLDT,Other,False,,37.798763,-122.24971
+CA0121100,Department of Parks and Recreation: North Coast Redwoods,California,CA,Pacific,West,Region IV,HUMBOLDT,Other State Agency,False,,40.706673,-123.925818
+CA0129900,Highway Patrol: Humboldt County,California,CA,Pacific,West,Region IV,HUMBOLDT,State Police,False,,40.86264,-124.08294
+CA0130000,Imperial County Sheriff's Office,California,CA,Pacific,West,Region IV,IMPERIAL,County,False,,33.040816,-115.355395
+CA0130100,Brawley Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,32.978657,-115.53716
+CA0130200,Calexico Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,32.669827,-115.49314
+CA0130300,Calipatria Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,33.040816,-115.355395
+CA0130400,El Centro Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,32.793327,-115.56443
+CA0130500,Holtville Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,32.81098,-115.379875
+CA0130600,Imperial Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,32.844448,-115.569954
+CA0130700,Westmorland Police Department,California,CA,Pacific,West,Region IV,IMPERIAL,City,False,,33.040816,-115.355395
+CA013080X,Union Pacific Railroad: Imperial County,California,CA,Pacific,West,Region IV,IMPERIAL,Other,False,,37.798763,-122.24971
+CA0139900,Highway Patrol: Imperial County,California,CA,Pacific,West,Region IV,IMPERIAL,State Police,False,,32.82178,-115.56991
+CA0140000,Inyo County Sheriff's Office,California,CA,Pacific,West,Region IV,INYO,County,False,,36.561977,-117.403927
+CA0140100,Bishop Police Department,California,CA,Pacific,West,Region IV,INYO,City,False,,37.361378,-118.39636
+CA014030X,Union Pacific Railroad: Inyo County,California,CA,Pacific,West,Region IV,INYO,Other,False,,37.798763,-122.24971
+CA0149900,Highway Patrol: Inyo County,California,CA,Pacific,West,Region IV,INYO,State Police,False,,36.561977,-117.403927
+CA0150000,Kern County Sheriff's Office,California,CA,Pacific,West,Region IV,KERN,County,False,,35.419617,-119.04741
+CA0150100,Arvin Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.346629,-118.729506
+CA0150200,Bakersfield Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.346629,-118.729506
+CA0150300,Delano Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.346629,-118.729506
+CA0150500,McFarland Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.67801,-119.23241
+CA0150600,Ridgecrest Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.620674,-117.6702
+CA0150700,Shafter Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.499836,-119.27048
+CA0150800,Taft Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.134575,-119.442215
+CA0150900,Tehachapi Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.13094,-118.447235
+CA0151100,California City Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.127663,-117.9599
+CA0151400,Stallion Springs Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.082546,-118.63749
+CA0151500,Bear Valley Police Department,California,CA,Pacific,West,Region IV,KERN,City,False,,35.134567,-118.574615
+CA0152100,Kern High School District,California,CA,Pacific,West,Region IV,KERN,Other,False,,,
+CA0152200,Union Pacific Railroad: Kern County,California,CA,Pacific,West,Region IV,KERN,Other,False,,37.798763,-122.24971
+CA0159700,California State University: Bakersfield,California,CA,Pacific,West,Region IV,KERN,University or College,False,,35.346629,-118.729506
+CA0159900,Highway Patrol: Kern County,California,CA,Pacific,West,Region IV,KERN,State Police,False,,35.346629,-118.729506
+CA0160000,Kings County Sheriff's Office,California,CA,Pacific,West,Region IV,KINGS,County,False,,36.072478,-119.81553
+CA0160100,Corcoran Police Department,California,CA,Pacific,West,Region IV,KINGS,City,False,,36.099304,-119.55968
+CA0160200,Hanford Police Department,California,CA,Pacific,West,Region IV,KINGS,City,False,,36.329308,-119.64769
+CA0160300,Lemoore Police Department,California,CA,Pacific,West,Region IV,KINGS,City,False,,36.307163,-119.78825
+CA0160500,Union Pacific Railroad: Kings County,California,CA,Pacific,West,Region IV,KINGS,Other,False,,37.798763,-122.24971
+CA016060X,Porterville Developmental Center,California,CA,Pacific,West,Region IV,KINGS,Other State Agency,False,,,
+CA016070X,Avenal Police Department,California,CA,Pacific,West,Region IV,KINGS,City,False,,36.00669,-120.124054
+CA0169900,Highway Patrol: Kings County,California,CA,Pacific,West,Region IV,KINGS,State Police,False,,36.072478,-119.81553
+CA0170000,Lake County Sheriff's Office,California,CA,Pacific,West,Region IV,LAKE,County,False,,39.094802,-122.746757
+CA0170100,Lakeport Police Department,California,CA,Pacific,West,Region IV,LAKE,City,False,,39.047752,-122.91607
+CA0170200,Clearlake Police Department,California,CA,Pacific,West,Region IV,LAKE,City,False,,39.094802,-122.746757
+CA0179900,Highway Patrol: Lake County,California,CA,Pacific,West,Region IV,LAKE,State Police,False,,38.972343,-122.83283
+CA0180000,Lassen County Sheriff's Office,California,CA,Pacific,West,Region IV,LASSEN,County,False,,40.425034,-120.64766
+CA0180100,Susanville Police Department,California,CA,Pacific,West,Region IV,LASSEN,City,False,,40.415127,-120.64738
+CA018030X,Union Pacific Railroad: Lassen County,California,CA,Pacific,West,Region IV,LASSEN,Other,False,,37.798763,-122.24971
+CA0189900,Highway Patrol: Lassen County,California,CA,Pacific,West,Region IV,LASSEN,State Police,False,,40.378185,-120.59017
+CA0190000,Los Angeles County Sheriff's Office,California,CA,Pacific,West,Region IV,LOS ANGELES,County,False,,34.196398,-118.261862
+CA0190100,Alhambra Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.092934,-118.12671
+CA0190200,Arcadia Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.138,-118.03953
+CA0190300,Artesia Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0190400,Avalon Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0190500,Azusa Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.13403,-117.90616
+CA0190600,Baldwin Park Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.085308,-117.96031
+CA0190700,Bell Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.979942,-118.18879
+CA0190800,Bellflower Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0190900,Bell Gardens Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.967304,-118.15043
+CA0190C00,El Camino College,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,33.8855,-118.32652
+CA0190D0X,La Habra Heights Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0190I00,Union Pacific Railroad: Los Angeles County,California,CA,Pacific,West,Region IV,LOS ANGELES,Other,False,,37.798763,-122.24971
+CA0190K00,Los Angeles County Metropolitan Transportation Authority,California,CA,Pacific,West,Region IV,LOS ANGELES,Other,False,,34.196398,-118.261862
+CA0190R00,Pasadena Community College,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,34.196398,-118.261862
+CA0190X0X,Westlake Village Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0191000,Beverly Hills Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.073654,-118.40051
+CA0191100,Bradbury Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0191200,Burbank Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0191300,Claremont Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.0965,-117.72234
+CA0191400,Commerce Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0191500,Compton Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0191600,Covina Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.08973,-117.890114
+CA0191700,Cudahy Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.98755,-118.189354
+CA0191800,Culver City Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.0207,-118.39563
+CA0191900,Cerritos Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0191F00,Agoura Hills Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0191H0X,West Hollywood Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.083508,-118.38372
+CA0191N00,Baldwin Park Unified School District,California,CA,Pacific,West,Region IV,LOS ANGELES,Other,False,,,
+CA0191R0X,Santa Clarita Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0191W0X,Diamond Bar Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0192000,Downey Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0192100,Duarte Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0192200,El Monte Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0192300,El Segundo Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.919888,-118.41592
+CA0192400,Gardena Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0192500,Glendale Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.14695,-118.24886
+CA0192600,Glendora Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.135105,-117.86546
+CA0192700,Hawaiian Gardens Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0192800,Hawthorne Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.919025,-118.35244
+CA0192900,Hermosa Beach Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0192H0X,Calabasas Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0192J0X,Malibu Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0192U0X,Los Angeles Transportation Services Bureau,California,CA,Pacific,West,Region IV,LOS ANGELES,Other,False,,34.06067,-118.167885
+CA0193000,Hidden Hills Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0193100,Huntington Park Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.979866,-118.219055
+CA0193200,Industry Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0193300,Inglewood Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0193400,Irwindale Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.10423,-117.934135
+CA0193500,Lakewood Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0193600,La Mirada Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0193700,La Puente Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0193800,La Verne Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0193900,Lawndale Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0194000,Lomita Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0194100,Long Beach Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0194200,Los Angeles Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0194300,Lynwood Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0194400,Manhattan Beach Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.887936,-118.41001
+CA0194500,Maywood Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.987534,-118.18923
+CA0194600,Monrovia Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.148067,-118.00008
+CA0194700,Montebello Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.019287,-118.11615
+CA0194800,Monterey Park Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.05978,-118.12597
+CA0194900,Norwalk Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0195000,Palmdale Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0195100,Palos Verdes Estates Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0195200,Paramount Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0195300,Pasadena Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.149437,-118.1443
+CA0195400,Pico Rivera Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0195500,Pomona Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.05499,-117.75431
+CA0195600,Redondo Beach Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.844234,-118.38821
+CA0195700,Rolling Hills Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0195800,Rolling Hills Estates Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0195900,Rosemead Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0196000,San Dimas Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0196100,San Fernando Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.283566,-118.43928
+CA0196200,San Gabriel Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0196300,San Marino Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.121788,-118.106316
+CA0196400,Santa Fe Springs Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.974472,-118.03265
+CA0196500,Santa Monica Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.01294,-118.49036
+CA0196600,Sierra Madre Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.161842,-118.05774
+CA0196700,Signal Hill Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.7971,-118.16873
+CA0196800,South El Monte Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0196900,South Gate Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.95646,-118.20569
+CA0197000,South Pasadena Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.11581,-118.1524
+CA0197100,Temple City Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0197200,Torrance Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.84033,-118.34455
+CA0197300,Vernon Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.196398,-118.261862
+CA0197400,Walnut Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0197500,West Covina Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.072132,-117.93709
+CA0197600,Whittier Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,33.974472,-118.03265
+CA0197700,Carson Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0197800,California State Polytechnic University: Pomona,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,34.04983,-117.81568
+CA0198000,Rancho Palos Verdes Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0198100,California State University: Dominguez Hills,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,33.867218,-118.25527
+CA0198200,California State University: Long Beach,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,33.783516,-118.10802
+CA0198300,California State University: Los Angeles,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,34.06248,-118.16909
+CA0198400,California State University: Northridge,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,34.235504,-118.52776
+CA019900X,La Canada Flintridge Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA019960X,Lancaster Police Department,California,CA,Pacific,West,Region IV,LOS ANGELES,City,False,,34.06067,-118.167885
+CA0199700,University of California: Los Angeles,California,CA,Pacific,West,Region IV,LOS ANGELES,University or College,False,,34.068478,-118.44505
+CA0199900,Highway Patrol: Los Angeles County,California,CA,Pacific,West,Region IV,LOS ANGELES,State Police,False,,34.079033,-118.29289
+CA019A900,Metropolitan State Hospital,California,CA,Pacific,West,Region IV,LOS ANGELES,Other State Agency,False,,,
+CA0200000,Madera County Sheriff's Office,California,CA,Pacific,West,Region IV,MADERA,County,False,,36.953354,-120.03757
+CA0200100,Chowchilla Police Department,California,CA,Pacific,West,Region IV,MADERA,City,False,,37.122593,-120.25846
+CA0200200,Madera Police Department,California,CA,Pacific,West,Region IV,MADERA,City,False,,37.210039,-119.749852
+CA020040X,Union Pacific Railroad: Madera County,California,CA,Pacific,West,Region IV,MADERA,Other,False,,37.79885,-122.30563
+CA0209900,Highway Patrol: Madera County,California,CA,Pacific,West,Region IV,MADERA,State Police,False,,36.993893,-120.10618
+CA0210000,Marin County Sheriff's Office,California,CA,Pacific,West,Region IV,MARIN,County,False,,38.001637,-122.53674
+CA0210100,Belvedere Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,37.874096,-122.46572
+CA0210300,Fairfax Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,37.98493,-122.59092
+CA0210500,Mill Valley Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,37.90565,-122.57148
+CA0210600,Novato Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,38.106064,-122.56927
+CA0210700,Ross Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,38.051817,-122.745974
+CA0210900,San Rafael Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,38.051817,-122.745974
+CA0211000,Sausalito Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,37.858112,-122.484436
+CA0211100,Tiburon Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,37.880222,-122.46468
+CA021120X,Union Pacific Railroad: Marin County,California,CA,Pacific,West,Region IV,MARIN,Other,False,,37.798763,-122.24971
+CA0211300,Marin Community College,California,CA,Pacific,West,Region IV,MARIN,University or College,False,,38.051817,-122.745974
+CA0211700,Central Marin Police Department,California,CA,Pacific,West,Region IV,MARIN,City,False,,,
+CA0219900,Highway Patrol: Marin County,California,CA,Pacific,West,Region IV,MARIN,State Police,False,,37.924305,-122.510826
+CA0220000,Mariposa County Sheriff's Office,California,CA,Pacific,West,Region IV,MARIPOSA,County,False,,37.570033,-119.91286
+CA0229900,Highway Patrol: Mariposa County,California,CA,Pacific,West,Region IV,MARIPOSA,State Police,False,,37.570033,-119.91286
+CA0230000,Mendocino County Sheriff's Office,California,CA,Pacific,West,Region IV,MENDOCINO,County,False,,39.432388,-123.442881
+CA0230100,Fort Bragg Police Department,California,CA,Pacific,West,Region IV,MENDOCINO,City,False,,39.432667,-123.80412
+CA0230300,Ukiah Police Department,California,CA,Pacific,West,Region IV,MENDOCINO,City,False,,39.432388,-123.442881
+CA0230400,Willits Police Department,California,CA,Pacific,West,Region IV,MENDOCINO,City,False,,39.41243,-123.35326
+CA0230900,Union Pacific Railroad: Mendocino County,California,CA,Pacific,West,Region IV,MENDOCINO,Other,False,,39.432388,-123.442881
+CA0239900,Highway Patrol: Mendocino County,California,CA,Pacific,West,Region IV,MENDOCINO,State Police,False,,39.432388,-123.442881
+CA0240000,Merced County Sheriff's Office,California,CA,Pacific,West,Region IV,MERCED,County,False,,37.307518,-120.48352
+CA0240100,Atwater Police Department,California,CA,Pacific,West,Region IV,MERCED,City,False,,37.36044,-120.600685
+CA0240200,Dos Palos Police Department,California,CA,Pacific,West,Region IV,MERCED,City,False,,36.98548,-120.62781
+CA0240300,Gustine Police Department,California,CA,Pacific,West,Region IV,MERCED,City,False,,37.194806,-120.722802
+CA0240400,Livingston Police Department,California,CA,Pacific,West,Region IV,MERCED,City,False,,37.385117,-120.72305
+CA0240500,Los Banos Police Department,California,CA,Pacific,West,Region IV,MERCED,City,False,,37.061142,-120.849655
+CA0240600,Merced Police Department,California,CA,Pacific,West,Region IV,MERCED,City,False,,37.307243,-120.48267
+CA024080X,Union Pacific Railroad: Merced County,California,CA,Pacific,West,Region IV,MERCED,Other,False,,37.798763,-122.24971
+CA0241000,Department of Parks and Recreation: Four Rivers District,California,CA,Pacific,West,Region IV,MERCED,Other State Agency,False,,37.065716,-121.07188
+CA0241200,University of California: Merced,California,CA,Pacific,West,Region IV,MERCED,University or College,False,,37.365295,-120.43214
+CA0249900,Highway Patrol: Merced County,California,CA,Pacific,West,Region IV,MERCED,State Police,False,,37.194806,-120.722802
+CA0250000,Modoc County Sheriff's Office,California,CA,Pacific,West,Region IV,MODOC,County,False,,41.592918,-120.71837
+CA0250100,Alturas Police Department,California,CA,Pacific,West,Region IV,MODOC,City,False,,41.483387,-120.54352
+CA025020X,Union Pacific Railroad: Modoc County,California,CA,Pacific,West,Region IV,MODOC,Other,False,,37.798763,-122.24971
+CA0259900,Highway Patrol: Modoc County,California,CA,Pacific,West,Region IV,MODOC,State Police,False,,41.491676,-120.54974
+CA0260000,Mono County Sheriff's Office,California,CA,Pacific,West,Region IV,MONO,County,False,,37.915836,-118.875167
+CA0260100,Mammoth Lakes Police Department,California,CA,Pacific,West,Region IV,MONO,City,False,,37.915836,-118.875167
+CA0269900,Highway Patrol: Mono County,California,CA,Pacific,West,Region IV,MONO,State Police,False,,37.915836,-118.875167
+CA0270000,Monterey County Sheriff's Office,California,CA,Pacific,West,Region IV,MONTEREY,County,False,,36.70181,-121.63269
+CA0270100,Carmel Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.240107,-121.315573
+CA0270200,Del Rey Oaks Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.592197,-121.833786
+CA0270300,Gonzales Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.240107,-121.315573
+CA0270400,Greenfield Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.32111,-121.2436
+CA0270500,King City Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.211166,-121.12721
+CA0270600,Monterey Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.596924,-121.89759
+CA0270700,Pacific Grove Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.618847,-121.91879
+CA0270800,Salinas Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.674767,-121.65718
+CA0270900,Sand City Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.61363,-121.84962
+CA0271000,Seaside Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.604176,-121.85408
+CA0271100,Soledad Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.240107,-121.315573
+CA0271200,Marina Police Department,California,CA,Pacific,West,Region IV,MONTEREY,City,False,,36.68176,-121.80256
+CA027150X,Union Pacific Railroad: Monterey County,California,CA,Pacific,West,Region IV,MONTEREY,Other,False,,37.798763,-122.24971
+CA0271700,Department of Parks and Recreation: Monterey County,California,CA,Pacific,West,Region IV,MONTEREY,Other State Agency,False,,36.603165,-121.89437
+CA0271900,California State University: Monterey Bay,California,CA,Pacific,West,Region IV,MONTEREY,University or College,False,,36.654827,-121.806145
+CA0279900,Highway Patrol: Monterey County,California,CA,Pacific,West,Region IV,MONTEREY,State Police,False,,36.654785,-121.637665
+CA0280000,Napa County Sheriff's Office,California,CA,Pacific,West,Region IV,NAPA,County,False,,38.5071,-122.325905
+CA0280100,Calistoga Police Department,California,CA,Pacific,West,Region IV,NAPA,City,False,,38.57867,-122.57926
+CA0280200,Napa Police Department,California,CA,Pacific,West,Region IV,NAPA,City,False,,38.5071,-122.325905
+CA0280300,St. Helena Police Department,California,CA,Pacific,West,Region IV,NAPA,City,False,,38.50604,-122.47157
+CA028060X,Union Pacific Railroad: Napa County,California,CA,Pacific,West,Region IV,NAPA,Other,False,,37.798763,-122.24971
+CA0280800,Napa State Hospital,California,CA,Pacific,West,Region IV,NAPA,Other State Agency,False,,38.270035,-122.27173
+CA0280900,American Canyon Police Department,California,CA,Pacific,West,Region IV,NAPA,City,False,,38.17651,-122.264275
+CA0281000,Yountville Police Department,California,CA,Pacific,West,Region IV,NAPA,City,False,,38.5071,-122.325905
+CA0289900,Highway Patrol: Napa County,California,CA,Pacific,West,Region IV,NAPA,State Police,False,,38.279896,-122.30052
+CA0290000,Nevada County Sheriff's Office,California,CA,Pacific,West,Region IV,NEVADA,County,False,,39.269234,-121.024475
+CA0290100,Grass Valley Police Department,California,CA,Pacific,West,Region IV,NEVADA,City,False,,39.218174,-121.06191
+CA0290200,Nevada City Police Department,California,CA,Pacific,West,Region IV,NEVADA,City,False,,39.262844,-121.01968
+CA029030X,Union Pacific Railroad: Nevada County,California,CA,Pacific,West,Region IV,NEVADA,Other,False,,37.798763,-122.24971
+CA0290800,Truckee Police Department,California,CA,Pacific,West,Region IV,NEVADA,City,False,,39.295191,-120.773446
+CA0299900,Highway Patrol: Nevada County,California,CA,Pacific,West,Region IV,NEVADA,State Police,False,,39.295191,-120.773446
+CA0300000,Orange County Sheriff's Office,California,CA,Pacific,West,Region IV,ORANGE,County,False,,33.675687,-117.777207
+CA0300100,Anaheim Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0300200,Brea Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.917824,-117.889275
+CA0300300,Buena Park Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.86387,-117.99804
+CA0300400,Costa Mesa Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0300500,Cypress Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0300600,La Palma Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.849407,-118.03725
+CA0300700,Fountain Valley Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.70901,-117.95065
+CA0300800,Fullerton Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.870346,-117.92736
+CA0300900,Garden Grove Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0301000,Huntington Beach Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0301100,Laguna Beach Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.545933,-117.78176
+CA0301200,La Habra Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.93234,-117.946106
+CA0301300,Los Alamitos Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.803204,-118.07573
+CA0301400,Newport Beach Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0301500,Orange Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.808765,-117.8617
+CA0301600,Placentia Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.871143,-117.86279
+CA0301700,San Clemente Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0301800,San Juan Capistrano Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0301900,Santa Ana Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0302000,Seal Beach Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0302100,Stanton Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0302200,Tustin Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.743816,-117.81884
+CA0302300,Villa Park Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0302400,Westminster Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.75929,-117.986336
+CA0302500,Yorba Linda Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.917824,-117.889275
+CA0302600,Irvine Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,33.675687,-117.777207
+CA0302700,California State University: Fullerton,California,CA,Pacific,West,Region IV,ORANGE,University or College,False,,33.878124,-117.88965
+CA030290X,Union Pacific Railroad: Orange County,California,CA,Pacific,West,Region IV,ORANGE,Other,False,,37.798763,-122.24971
+CA0303200,Department of Parks and Recreation: Orange Coast,California,CA,Pacific,West,Region IV,ORANGE,Other State Agency,False,,33.565712,-117.828354
+CA030340X,Fairview Developmental Center,California,CA,Pacific,West,Region IV,ORANGE,Other State Agency,False,,33.663307,-117.91929
+CA030350X,Mission Viejo Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030360X,Dana Point Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030390X,Laguna Niguel Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030420X,Laguna Hills Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030430X,Lake Forest Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030470X,Laguna Woods Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030480X,Rancho Santa Margarita Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA030490X,Aliso Viejo Police Department,California,CA,Pacific,West,Region IV,ORANGE,City,False,,,
+CA0309600,Irvine Valley College,California,CA,Pacific,West,Region IV,ORANGE,University or College,False,,33.675687,-117.777207
+CA0309700,University of California: Irvine,California,CA,Pacific,West,Region IV,ORANGE,University or College,False,,33.675687,-117.777207
+CA0309900,Highway Patrol: Orange County,California,CA,Pacific,West,Region IV,ORANGE,State Police,False,,33.767143,-117.83901
+CA0310000,Placer County Sheriff's Office,California,CA,Pacific,West,Region IV,PLACER,County,False,,39.062032,-120.722718
+CA0310100,Auburn Police Department,California,CA,Pacific,West,Region IV,PLACER,City,False,,38.89784,-121.074745
+CA0310300,Lincoln Police Department,California,CA,Pacific,West,Region IV,PLACER,City,False,,38.894478,-121.2937
+CA0310400,Rocklin Police Department,California,CA,Pacific,West,Region IV,PLACER,City,False,,38.790062,-121.23455
+CA0310500,Roseville Police Department,California,CA,Pacific,West,Region IV,PLACER,City,False,,38.760094,-121.2959
+CA0310700,Department of Parks and Recreation: Sierra,California,CA,Pacific,West,Region IV,PLACER,Other State Agency,False,,39.062032,-120.722718
+CA0311200,Union Pacific Railroad: Placer County,California,CA,Pacific,West,Region IV,PLACER,Other,False,,37.798763,-122.24971
+CA0319900,Highway Patrol: Placer County,California,CA,Pacific,West,Region IV,PLACER,State Police,False,,39.062032,-120.722718
+CA0320000,Plumas County Sheriff's Office,California,CA,Pacific,West,Region IV,PLUMAS,County,False,,39.934498,-120.91359
+CA032030X,Union Pacific Railroad: Plumas County,California,CA,Pacific,West,Region IV,PLUMAS,Other,False,,,
+CA0329900,Highway Patrol: Plumas County,California,CA,Pacific,West,Region IV,PLUMAS,State Police,False,,39.93764,-120.938896
+CA0330000,Riverside County Sheriff's Office,California,CA,Pacific,West,Region IV,RIVERSIDE,County,False,,33.729828,-116.002239
+CA0330100,Banning Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.729828,-116.002239
+CA0330200,Beaumont Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.92942,-116.97506
+CA0330300,Blythe Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.612965,-114.59825
+CA0330500,Coachella Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA0330600,Desert Hot Springs Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.729828,-116.002239
+CA0330800,Hemet Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.74941,-116.96785
+CA0330900,Indio Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.70857,-116.21641
+CA0331000,Norco Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA0331100,Palm Springs Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.729828,-116.002239
+CA0331200,Perris Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.787678,-117.226135
+CA0331300,Riverside Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978416,-117.37522
+CA0331400,San Jacinto Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.782,-116.95954
+CA0331500,Corona Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.729828,-116.002239
+CA0331600,Indian Wells Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA0331700,Rancho Mirage Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA0331800,Palm Desert Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA033210X,Union Pacific Railroad: Riverside County,California,CA,Pacific,West,Region IV,RIVERSIDE,Other,False,,37.798763,-122.24971
+CA0332400,Department of Parks and Recreation: Inland Empire,California,CA,Pacific,West,Region IV,RIVERSIDE,Other State Agency,False,,33.862755,-117.19964
+CA0332500,Cathedral City Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.729828,-116.002239
+CA033300X,Lake Elsinore Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA033310X,La Quinta Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA033320X,Moreno Valley Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,,
+CA033380X,Temecula Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA033400X,Calimesa Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.978046,-117.37402
+CA033410X,Canyon Lake Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.671688,-117.26131
+CA0334200,Murrieta Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.559948,-117.209175
+CA0334400,Riverside Community College,California,CA,Pacific,West,Region IV,RIVERSIDE,University or College,False,,33.971573,-117.38467
+CA0334900,Menifee,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,,
+CA033770X,Wildomar Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,33.66725,-117.331665
+CA033790X,Eastvale Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,34.01191,-117.448814
+CA0339700,University of California: Riverside,California,CA,Pacific,West,Region IV,RIVERSIDE,University or College,False,,33.97917,-117.33108
+CA0339900,Highway Patrol: Riverside County,California,CA,Pacific,West,Region IV,RIVERSIDE,State Police,False,,33.92241,-117.410866
+CA033A000,Jurupa Valley Police Department,California,CA,Pacific,West,Region IV,RIVERSIDE,City,False,,34.01191,-117.448814
+CA033A100,Mt. San Jacinto College,California,CA,Pacific,West,Region IV,RIVERSIDE,University or College,False,,,
+CA0340000,Sacramento County Sheriff's Office,California,CA,Pacific,West,Region IV,SACRAMENTO,County,False,,38.450011,-121.340441
+CA0340100,Folsom Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.681313,-121.1638
+CA0340200,Galt Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.26226,-121.30619
+CA0340300,Isleton Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.450011,-121.340441
+CA0340400,Sacramento Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.520615,-121.49856
+CA0340800,California State University: Sacramento,California,CA,Pacific,West,Region IV,SACRAMENTO,University or College,False,,38.56646,-121.42829
+CA0340H00,Elk Grove Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.450011,-121.340441
+CA0341201,Department of Parks and Recreation: Gold Fields District,California,CA,Pacific,West,Region IV,SACRAMENTO,Other State Agency,False,,,
+CA0341400,Twin Rivers Unified School District,California,CA,Pacific,West,Region IV,SACRAMENTO,Other,False,,38.65166,-121.389565
+CA0342000,California State Fair,California,CA,Pacific,West,Region IV,SACRAMENTO,Other State Agency,False,,38.595455,-121.424095
+CA0342200,Department of Parks and Recreation: Capital,California,CA,Pacific,West,Region IV,SACRAMENTO,Other State Agency,False,,38.450011,-121.340441
+CA0344800,Union Pacific Railroad: Sacramento County,California,CA,Pacific,West,Region IV,SACRAMENTO,Other,False,,37.798763,-122.24971
+CA034550X,Rancho Cordova Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.584633,-121.4959
+CA0349600,Citrus Heights Police Department,California,CA,Pacific,West,Region IV,SACRAMENTO,City,False,,38.679226,-121.298195
+CA0349700,"University of California: Medical Center, Sacramento",California,CA,Pacific,West,Region IV,SACRAMENTO,University or College,False,,38.55433,-121.45746
+CA0349900,Highway Patrol: Sacramento County,California,CA,Pacific,West,Region IV,SACRAMENTO,State Police,False,,38.585705,-121.49562
+CA0350000,San Benito County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN BENITO,County,False,,36.610702,-121.085296
+CA0350100,Hollister Police Department,California,CA,Pacific,West,Region IV,SAN BENITO,City,False,,36.89229,-121.39484
+CA035030X,Union Pacific Railroad: San Benito County,California,CA,Pacific,West,Region IV,SAN BENITO,Other,False,,37.798763,-122.24971
+CA0359900,Highway Patrol: San Benito County,California,CA,Pacific,West,Region IV,SAN BENITO,State Police,False,,37.00466,-121.55546
+CA0360000,San Bernardino County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN BERNARDINO,County,False,,34.85722,-116.181197
+CA0360100,Barstow Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.892834,-117.02627
+CA0360200,Chino Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.012817,-117.68927
+CA0360300,Colton Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.071785,-117.323296
+CA0360400,Fontana Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.102913,-117.432785
+CA0360500,Montclair Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.85722,-116.181197
+CA0360600,Needles Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.85722,-116.181197
+CA0360700,Ontario Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.027554,-117.593216
+CA0360800,Redlands Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.85722,-116.181197
+CA0360900,Rialto Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.103333,-117.37477
+CA0361000,San Bernardino Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.85722,-116.181197
+CA0361100,Upland Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.110546,-117.67902
+CA0361200,Victorville Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.85722,-116.181197
+CA0361300,Adelanto Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.85722,-116.181197
+CA0361400,California State University: San Bernardino,California,CA,Pacific,West,Region IV,SAN BERNARDINO,University or College,False,,34.177666,-117.32848
+CA0361600,Rancho Cucamonga Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.10287,-117.575584
+CA036200X,Big Bear Lake Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA036210X,Grand Terrace Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA036220X,Loma Linda Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA0362300,San Bernardino Unified School District,California,CA,Pacific,West,Region IV,SAN BERNARDINO,Other,False,,34.121357,-117.29505
+CA0362600,Chaffey College,California,CA,Pacific,West,Region IV,SAN BERNARDINO,University or College,False,,,
+CA036300X,Highland Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,34.12124,-117.210754
+CA036310X,Twentynine Palms Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA036320X,Hesperia Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA036330X,Apple Valley Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA036350X,Yucaipa Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA0363900,San Bernardino Community College,California,CA,Pacific,West,Region IV,SAN BERNARDINO,University or College,False,,34.1005,-117.251274
+CA036400X,Chino Hills Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA036410X,Yucca Valley Police Department,California,CA,Pacific,West,Region IV,SAN BERNARDINO,City,False,,,
+CA0365000,Fontana Unified School District,California,CA,Pacific,West,Region IV,SAN BERNARDINO,Other,False,,34.078053,-117.453735
+CA0365400,Union Pacific Railroad: San Bernardino County,California,CA,Pacific,West,Region IV,SAN BERNARDINO,Other,False,,37.798763,-122.24971
+CA0365700,Patton State Hospital,California,CA,Pacific,West,Region IV,SAN BERNARDINO,Other State Agency,False,,34.85722,-116.181197
+CA036590X,Department of Parks and Recreation: Tehachapi District,California,CA,Pacific,West,Region IV,SAN BERNARDINO,Other State Agency,False,,,
+CA0369900,Highway Patrol: San Bernardino County,California,CA,Pacific,West,Region IV,SAN BERNARDINO,State Police,False,,34.071293,-117.27045
+CA0370000,San Diego County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN DIEGO,County,True,2021-01-02T00:00:00.000Z,33.023604,-116.776117
+CA0370100,Carlsbad Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,33.137352,-117.265976
+CA0370200,Chula Vista Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,33.023604,-116.776117
+CA0370300,Coronado Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,32.690113,-117.177414
+CA0370400,Del Mar Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,33.04468,-117.25954
+CA0370500,El Cajon Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,32.807697,-116.96212
+CA0370600,Escondido Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,33.13591,-117.09332
+CA0370700,Imperial Beach Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,32.57655,-117.11539
+CA0370800,La Mesa Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,32.767647,-117.02352
+CA0370900,National City Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,32.67233,-117.10557
+CA0371000,Oceanside Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,33.023604,-116.776117
+CA0371100,San Diego Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,True,2021-01-02T00:00:00.000Z,32.71573,-117.151886
+CA0371200,San Marcos Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,33.14137,-117.14562
+CA0371300,Vista Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,33.192047,-117.25364
+CA0371400,San Diego State University,California,CA,Pacific,West,Region IV,SAN DIEGO,University or College,False,,33.023604,-116.776117
+CA0371500,Port of San Diego Harbor,California,CA,Pacific,West,Region IV,SAN DIEGO,Other,True,2021-01-02T00:00:00.000Z,32.729366,-117.19509
+CA0372200,Department of Parks and Recreation: Colorado,California,CA,Pacific,West,Region IV,SAN DIEGO,Other State Agency,False,,33.256496,-116.399376
+CA0372400,Department of Parks and Recreation: Ocotillo Wells,California,CA,Pacific,West,Region IV,SAN DIEGO,Other State Agency,False,,33.15929,-116.22911
+CA0372500,Department of Parks and Recreation: San Diego Coast,California,CA,Pacific,West,Region IV,SAN DIEGO,Other State Agency,False,,33.16131,-117.3535
+CA0373200,California State University: San Marcos,California,CA,Pacific,West,Region IV,SAN DIEGO,University or College,False,,33.134045,-117.15313
+CA0379700,University of California: San Diego,California,CA,Pacific,West,Region IV,SAN DIEGO,University or College,False,,33.023604,-116.776117
+CA0379900,Highway Patrol: San Diego County,California,CA,Pacific,West,Region IV,SAN DIEGO,State Police,False,,32.82533,-117.16159
+CA037A100,Lemon Grove Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,32.740322,-117.03116
+CA037A200,Santee Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,33.023604,-116.776117
+CA037A300,Poway Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,32.955612,-117.04518
+CA037A400,Encinitas Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,33.04468,-117.25954
+CA037A500,Solana Beach Police Department,California,CA,Pacific,West,Region IV,SAN DIEGO,City,False,,33.04468,-117.25954
+CA0380000,San Francisco County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN FRANCISCO,County,False,,37.727239,-123.032229
+CA0380100,San Francisco Police Department,California,CA,Pacific,West,Region IV,SAN FRANCISCO,City,False,,37.775047,-122.40381
+CA0380300,San Francisco State University,California,CA,Pacific,West,Region IV,SAN FRANCISCO,University or College,False,,37.720856,-122.47662
+CA0380500,San Francisco Bay Area Rapid Transit: San Francisco County,California,CA,Pacific,West,Region IV,SAN FRANCISCO,Other,False,,37.79742,-122.26664
+CA0381900,Union Pacific Railroad: San Francisco County,California,CA,Pacific,West,Region IV,SAN FRANCISCO,Other,False,,37.798763,-122.24971
+CA0389700,University of California: San Francisco,California,CA,Pacific,West,Region IV,SAN FRANCISCO,University or College,False,,37.767666,-122.41551
+CA0389900,Highway Patrol: San Francisco County,California,CA,Pacific,West,Region IV,SAN FRANCISCO,State Police,False,,37.773075,-122.40763
+CA0390000,San Joaquin County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN JOAQUIN,County,False,,37.884598,-121.29794
+CA0390100,Escalon Police Department,California,CA,Pacific,West,Region IV,SAN JOAQUIN,City,False,,37.935034,-121.272237
+CA0390200,Lodi Police Department,California,CA,Pacific,West,Region IV,SAN JOAQUIN,City,False,,38.135468,-121.27515
+CA0390300,Manteca Police Department,California,CA,Pacific,West,Region IV,SAN JOAQUIN,City,False,,37.79916,-121.231125
+CA0390400,Ripon Police Department,California,CA,Pacific,West,Region IV,SAN JOAQUIN,City,False,,37.740936,-121.135475
+CA0390500,Stockton Police Department,California,CA,Pacific,West,Region IV,SAN JOAQUIN,City,False,,37.935034,-121.272237
+CA0390600,Tracy Police Department,California,CA,Pacific,West,Region IV,SAN JOAQUIN,City,False,,37.935034,-121.272237
+CA0391500,Stockton Unified School District,California,CA,Pacific,West,Region IV,SAN JOAQUIN,Other,False,,37.96626,-121.290726
+CA0392100,Union Pacific Railroad: San Joaquin County,California,CA,Pacific,West,Region IV,SAN JOAQUIN,Other,False,,37.798763,-122.24971
+CA0399900,Highway Patrol: San Joaquin County,California,CA,Pacific,West,Region IV,SAN JOAQUIN,State Police,False,,37.935034,-121.272237
+CA0400000,San Luis Obispo County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,County,False,,35.385227,-120.447541
+CA0400100,Arroyo Grande Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.120285,-120.59154
+CA0400200,Grover Beach Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.120537,-120.6226
+CA0400300,Morro Bay Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.365948,-120.842705
+CA0400400,Paso Robles Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.62364,-120.68984
+CA0400500,Pismo Beach Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.14444,-120.64104
+CA0400600,San Luis Obispo Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.285446,-120.663635
+CA0400700,California State Polytechnic University: San Luis Obispo,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,University or College,False,,35.385227,-120.447541
+CA0400800,Atascadero Police Department,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,City,False,,35.49247,-120.67593
+CA0401300,Department of Parks and Recreation: San Luis Obispo Coast,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,Other State Agency,False,,35.257004,-120.66864
+CA0401400,Department of Parks and Recreation: Oceano Dunes,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,Other State Agency,False,,35.257004,-120.66864
+CA040160X,Atascadero State Hospital,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,Other State Agency,False,,,
+CA0401800,Union Pacific Railroad: San Luis Obispo County,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,Other,False,,37.798763,-122.24971
+CA0401900,Cuesta College,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,University or College,False,,35.385227,-120.447541
+CA0409900,Highway Patrol: San Luis Obispo County,California,CA,Pacific,West,Region IV,SAN LUIS OBISPO,State Police,False,,35.288876,-120.6572
+CA0410000,San Mateo County Sheriff's Office,California,CA,Pacific,West,Region IV,SAN MATEO,County,False,,37.414663,-122.371545
+CA0410100,Atherton Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.46327,-122.19748
+CA0410200,Belmont Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.516838,-122.279594
+CA0410300,Brisbane Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.687454,-122.40451
+CA0410400,Burlingame Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.595444,-122.38218
+CA0410500,Colma Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.67692,-122.458595
+CA0410600,Daly City Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.691093,-122.472984
+CA0410800,Hillsborough Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.57814,-122.35546
+CA0410900,Menlo Park Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.45417,-122.17698
+CA0411100,Pacifica Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.414663,-122.371545
+CA0411300,Redwood City Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.49354,-122.21956
+CA0411400,San Bruno Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.639008,-122.41736
+CA0411600,San Mateo Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.551094,-122.30515
+CA0411700,South San Francisco Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.6558,-122.43701
+CA0411900,Broadmoor Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.414663,-122.371545
+CA0412000,Foster City Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.55951,-122.27061
+CA0412300,San Francisco Bay Area Rapid Transit: San Mateo County,California,CA,Pacific,West,Region IV,SAN MATEO,Other,False,,37.79742,-122.26664
+CA041240X,Union Pacific Railroad: San Mateo County,California,CA,Pacific,West,Region IV,SAN MATEO,Other,False,,37.798763,-122.24971
+CA0412700,East Palo Alto Police Department,California,CA,Pacific,West,Region IV,SAN MATEO,City,False,,37.472054,-122.139496
+CA0419900,Highway Patrol: San Mateo County,California,CA,Pacific,West,Region IV,SAN MATEO,State Police,False,,37.494576,-122.23008
+CA0420000,Santa Barbara County Sheriff's Office,California,CA,Pacific,West,Region IV,SANTA BARBARA,County,False,,34.537248,-120.037915
+CA0420100,Guadalupe Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.9701,-120.56895
+CA0420200,Lompoc Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.537248,-120.037915
+CA0420300,Santa Barbara Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.537248,-120.037915
+CA0420400,Santa Maria Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.94979,-120.43389
+CA0420500,Carpinteria Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.537248,-120.037915
+CA042070X,Union Pacific Railroad: Santa Barbara County,California,CA,Pacific,West,Region IV,SANTA BARBARA,Other,False,,37.798763,-122.24971
+CA0421000,Solvang Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.537248,-120.037915
+CA0421100,Allan Hancock College,California,CA,Pacific,West,Region IV,SANTA BARBARA,University or College,False,,34.946743,-120.42478
+CA0421200,Buellton Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.537248,-120.037915
+CA042140X,Goleta Police Department,California,CA,Pacific,West,Region IV,SANTA BARBARA,City,False,,34.44241,-119.77944
+CA0429700,University of California: Santa Barbara,California,CA,Pacific,West,Region IV,SANTA BARBARA,University or College,False,,34.537248,-120.037915
+CA0429900,Highway Patrol: Santa Barbara County,California,CA,Pacific,West,Region IV,SANTA BARBARA,State Police,False,,34.439373,-119.85107
+CA0430000,Santa Clara County Sheriff's Office,California,CA,Pacific,West,Region IV,SANTA CLARA,County,False,,37.3542,-121.90724
+CA0430200,Campbell Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.288048,-121.94482
+CA0430300,Cupertino Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.3542,-121.90724
+CA0430400,Gilroy Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.003857,-121.57284
+CA0430500,Los Altos Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.382168,-122.11404
+CA0430600,Los Altos Hills Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.3542,-121.90724
+CA0430700,Los Gatos Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.220777,-121.690622
+CA0430800,Milpitas Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.452545,-121.91041
+CA0430900,Monte Sereno Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.221287,-121.97938
+CA0431000,Morgan Hill Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.220777,-121.690622
+CA0431100,Mountain View Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.394695,-122.08119
+CA0431200,Palo Alto Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.44405,-122.15936
+CA0431300,San Jose Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.220777,-121.690622
+CA0431400,Santa Clara Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.220777,-121.690622
+CA0431500,Saratoga Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.3542,-121.90724
+CA0431600,Sunnyvale Police Department,California,CA,Pacific,West,Region IV,SANTA CLARA,City,False,,37.220777,-121.690622
+CA0431700,California State University: San Jose,California,CA,Pacific,West,Region IV,SANTA CLARA,University or College,False,,37.220777,-121.690622
+CA0432000,San Jose/Evergreen Community College,California,CA,Pacific,West,Region IV,SANTA CLARA,University or College,False,,37.29781,-121.76399
+CA043210X,West Valley-Mission College,California,CA,Pacific,West,Region IV,SANTA CLARA,University or College,False,,37.26675,-122.01386
+CA0432700,Foothill-De Anza College,California,CA,Pacific,West,Region IV,SANTA CLARA,University or College,False,,37.358177,-122.1275
+CA0433600,Union Pacific Railroad: Santa Clara County,California,CA,Pacific,West,Region IV,SANTA CLARA,Other,False,,37.798763,-122.24971
+CA043380X,San Francisco Bay Area Rapid Transit:,California,CA,Pacific,West,Region IV,SANTA CLARA,Other,False,,,
+CA043950X,Santa Clara Transit District,California,CA,Pacific,West,Region IV,SANTA CLARA,Other,False,,37.3542,-121.90724
+CA0439900,Highway Patrol: Santa Clara County,California,CA,Pacific,West,Region IV,SANTA CLARA,State Police,False,,37.382786,-121.911415
+CA0440000,Santa Cruz County Sheriff's Office,California,CA,Pacific,West,Region IV,SANTA CRUZ,County,False,,37.012488,-122.007205
+CA0440100,Capitola Police Department,California,CA,Pacific,West,Region IV,SANTA CRUZ,City,False,,36.974045,-121.95333
+CA0440200,Santa Cruz Police Department,California,CA,Pacific,West,Region IV,SANTA CRUZ,City,False,,36.96701,-122.026955
+CA0440300,Watsonville Police Department,California,CA,Pacific,West,Region IV,SANTA CRUZ,City,False,,37.012488,-122.007205
+CA0440400,Scotts Valley Police Department,California,CA,Pacific,West,Region IV,SANTA CRUZ,City,False,,37.049614,-122.017624
+CA044060X,Union Pacific Railroad: Santa Cruz County,California,CA,Pacific,West,Region IV,SANTA CRUZ,Other,False,,37.798763,-122.24971
+CA0440800,Department of Parks and Recreation: Santa Cruz Mountains,California,CA,Pacific,West,Region IV,SANTA CRUZ,Other State Agency,False,,37.043594,-122.06985
+CA0449700,University of California: Santa Cruz,California,CA,Pacific,West,Region IV,SANTA CRUZ,University or College,False,,36.977455,-122.055786
+CA0449900,Highway Patrol: Santa Cruz County,California,CA,Pacific,West,Region IV,SANTA CRUZ,State Police,False,,37.012488,-122.007205
+CA0450000,Shasta County Sheriff's Office,California,CA,Pacific,West,Region IV,SHASTA,County,False,,40.582897,-122.395515
+CA0450100,Anderson Police Department,California,CA,Pacific,West,Region IV,SHASTA,City,False,,40.453262,-122.298325
+CA0450200,Redding Police Department,California,CA,Pacific,West,Region IV,SHASTA,City,False,,40.585827,-122.39283
+CA045030X,Union Pacific Railroad: Shasta County,California,CA,Pacific,West,Region IV,SHASTA,Other,False,,37.798763,-122.24971
+CA0459100,Shasta County Marshal,California,CA,Pacific,West,Region IV,SHASTA,Other,False,,40.583073,-122.39574
+CA0459900,Highway Patrol: Shasta County,California,CA,Pacific,West,Region IV,SHASTA,State Police,False,,40.66264,-122.35714
+CA0460000,Sierra County Sheriff's Office,California,CA,Pacific,West,Region IV,SIERRA,County,False,,39.576925,-120.521993
+CA046020X,Union Pacific Railroad: Sierra County,California,CA,Pacific,West,Region IV,SIERRA,Other,False,,37.798763,-122.24971
+CA0469900,Highway Patrol: Sierra County,California,CA,Pacific,West,Region IV,SIERRA,State Police,False,,39.234642,-121.03399
+CA0470000,Siskiyou County Sheriff's Office,California,CA,Pacific,West,Region IV,SISKIYOU,County,False,,41.72972,-122.63826
+CA0470100,Dorris Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.72972,-122.63826
+CA0470200,Dunsmuir Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.587986,-122.533287
+CA0470300,Etna Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.587986,-122.533287
+CA0470400,Fort Jones Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.72972,-122.63826
+CA0470500,Montague Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.587986,-122.533287
+CA0470600,Mount Shasta Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.313313,-122.31235
+CA0470700,Tulelake Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.587986,-122.533287
+CA0470800,Weed Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.587986,-122.533287
+CA0470900,Yreka Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.732212,-122.638565
+CA0471000,Lake Shastina Police Department,California,CA,Pacific,West,Region IV,SISKIYOU,City,False,,41.587986,-122.533287
+CA0471600,Union Pacific Railroad: Siskiyou County,California,CA,Pacific,West,Region IV,SISKIYOU,Other,False,,37.798763,-122.24971
+CA0479900,Highway Patrol: Siskiyou County,California,CA,Pacific,West,Region IV,SISKIYOU,State Police,False,,41.587986,-122.533287
+CA0480000,Solano County Sheriff's Office,California,CA,Pacific,West,Region IV,SOLANO,County,False,,38.267226,-121.939594
+CA0480100,Benicia Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.05287,-122.153496
+CA0480200,Dixon Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.44554,-121.82381
+CA0480300,Fairfield Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.251545,-122.04343
+CA0480400,Rio Vista Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.15519,-121.689926
+CA0480500,Suisun City Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.239162,-122.036934
+CA0480600,Vacaville Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.35016,-121.99458
+CA0480700,Vallejo Police Department,California,CA,Pacific,West,Region IV,SOLANO,City,False,,38.267226,-121.939594
+CA048080X,Union Pacific Railroad: Solano County,California,CA,Pacific,West,Region IV,SOLANO,Other,False,,37.798763,-122.24971
+CA0489900,Highway Patrol: Solano County,California,CA,Pacific,West,Region IV,SOLANO,State Police,False,,38.083885,-122.19726
+CA0490000,Sonoma County Sheriff's Office,California,CA,Pacific,West,Region IV,SONOMA,County,False,,38.46769,-122.72429
+CA0490100,Cloverdale Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.806206,-123.01682
+CA0490200,Cotati Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.323624,-122.70799
+CA0490300,Healdsburg Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.609367,-122.86905
+CA0490400,Rohnert Park Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.525026,-122.937605
+CA0490500,Santa Rosa Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.525026,-122.937605
+CA0490600,Sebastopol Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.525026,-122.937605
+CA0490700,Sonoma Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.29818,-122.45794
+CA0490800,Petaluma Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.245697,-122.64498
+CA0490900,Sonoma State University,California,CA,Pacific,West,Region IV,SONOMA,University or College,False,,38.525026,-122.937605
+CA049100X,Union Pacific Railroad: Sonoma County,California,CA,Pacific,West,Region IV,SONOMA,Other,False,,37.798763,-122.24971
+CA0491100,Department of Parks and Recreation: Silverado,California,CA,Pacific,West,Region IV,SONOMA,Other State Agency,False,,38.525026,-122.937605
+CA0491200,Department of Parks and Recreation: Russian River,California,CA,Pacific,West,Region IV,SONOMA,Other State Agency,False,,38.525026,-122.937605
+CA0491400,Santa Rosa Junior College,California,CA,Pacific,West,Region IV,SONOMA,University or College,False,,38.454853,-122.71736
+CA049150X,Windsor Police Department,California,CA,Pacific,West,Region IV,SONOMA,City,False,,38.46769,-122.72429
+CA0499900,Highway Patrol: Sonoma County,California,CA,Pacific,West,Region IV,SONOMA,State Police,False,,38.349846,-122.721176
+CA0500000,Stanislaus County Sheriff's Office,California,CA,Pacific,West,Region IV,STANISLAUS,County,False,,37.587627,-120.99018
+CA0500100,Ceres Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.592953,-120.95455
+CA0500200,Modesto Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.636703,-120.99575
+CA0500300,Newman Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.562384,-121.002656
+CA0500400,Oakdale Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.76764,-120.84985
+CA0500500,Patterson Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.470737,-121.13036
+CA0500600,Riverbank Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.7363,-120.93573
+CA0500700,Turlock Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.562384,-121.002656
+CA0500800,Waterford Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.562384,-121.002656
+CA0500900,Hughson Police Department,California,CA,Pacific,West,Region IV,STANISLAUS,City,False,,37.562384,-121.002656
+CA0501000,California State University: Stanislaus,California,CA,Pacific,West,Region IV,STANISLAUS,University or College,False,,37.562384,-121.002656
+CA050120X,Union Pacific Railroad: Stanislaus County,California,CA,Pacific,West,Region IV,STANISLAUS,Other,False,,37.798763,-122.24971
+CA0509900,Highway Patrol: Stanislaus County,California,CA,Pacific,West,Region IV,STANISLAUS,State Police,False,,37.710976,-121.07166
+CA0510000,Sutter County Sheriff's Office,California,CA,Pacific,West,Region IV,SUTTER,County,False,,39.128967,-121.60707
+CA0510200,Yuba City Police Department,California,CA,Pacific,West,Region IV,SUTTER,City,False,,39.144726,-121.641426
+CA051040X,Union Pacific Railroad: Sutter County,California,CA,Pacific,West,Region IV,SUTTER,Other,False,,37.798763,-122.24971
+CA0519900,Highway Patrol: Sutter County,California,CA,Pacific,West,Region IV,SUTTER,State Police,False,,39.144722,-121.64491
+CA0520000,Tehama County Sheriff's Office,California,CA,Pacific,West,Region IV,TEHAMA,County,False,,40.126156,-122.232276
+CA0520100,Corning Police Department,California,CA,Pacific,West,Region IV,TEHAMA,City,False,,39.928185,-122.179276
+CA0520200,Red Bluff Police Department,California,CA,Pacific,West,Region IV,TEHAMA,City,False,,40.175694,-122.23484
+CA052040X,Union Pacific Railroad: Tehama County,California,CA,Pacific,West,Region IV,TEHAMA,Other,False,,37.798763,-122.24971
+CA0529900,Highway Patrol: Tehama County,California,CA,Pacific,West,Region IV,TEHAMA,State Police,False,,40.20063,-122.243195
+CA0530000,Trinity County Sheriff's Office,California,CA,Pacific,West,Region IV,TRINITY,County,False,,40.647724,-123.114404
+CA053010X,Union Pacific Railroad: Trinity County,California,CA,Pacific,West,Region IV,TRINITY,Other,False,,37.798763,-122.24971
+CA0539900,Highway Patrol: Trinity County,California,CA,Pacific,West,Region IV,TRINITY,State Police,False,,40.647724,-123.114404
+CA0540000,Tulare County Sheriff's Office,California,CA,Pacific,West,Region IV,TULARE,County,False,,36.327877,-119.317764
+CA0540100,Dinuba Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.55121,-119.39516
+CA0540200,Exeter Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.297142,-119.138405
+CA0540300,Farmersville Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.29776,-119.19875
+CA0540400,Lindsay Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.228824,-118.781061
+CA0540500,Porterville Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.072,-119.01828
+CA0540600,Tulare Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.207127,-119.34315
+CA0540700,Visalia Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.32839,-119.29881
+CA0540800,Woodlake Police Department,California,CA,Pacific,West,Region IV,TULARE,City,False,,36.418293,-119.09891
+CA054100X,Union Pacific Railroad: Tulare County,California,CA,Pacific,West,Region IV,TULARE,Other,False,,37.798763,-122.24971
+CA0541100,College of the Sequoias,California,CA,Pacific,West,Region IV,TULARE,University or College,False,,36.33777,-119.31424
+CA0549900,Highway Patrol: Tulare County,California,CA,Pacific,West,Region IV,TULARE,State Police,False,,36.228824,-118.781061
+CA0550000,Tuolumne County Sheriff's Office,California,CA,Pacific,West,Region IV,TUOLUMNE,County,False,,37.984512,-120.38597
+CA0550100,Sonora Police Department,California,CA,Pacific,West,Region IV,TUOLUMNE,City,False,,37.98655,-120.38485
+CA0559900,Highway Patrol: Tuolumne County,California,CA,Pacific,West,Region IV,TUOLUMNE,State Police,False,,37.956852,-120.41814
+CA0560000,Ventura County Sheriff's Office,California,CA,Pacific,West,Region IV,VENTURA,County,False,,34.26795,-119.212875
+CA0560100,Camarillo Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.26795,-119.212875
+CA0560200,Fillmore Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.26795,-119.212875
+CA0560300,Ojai Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.26795,-119.212875
+CA0560400,Oxnard Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.200966,-119.181076
+CA0560500,Port Hueneme Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.14973,-119.19544
+CA0560600,Santa Paula Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.35691,-119.06136
+CA0560700,Thousand Oaks Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.26795,-119.212875
+CA0560800,Ventura Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.26,-119.2226
+CA0560900,Simi Valley Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,34.286324,-118.72261
+CA0561300,Department of Parks and Recreation: Angeles,California,CA,Pacific,West,Region IV,VENTURA,Other State Agency,False,,34.358741,-119.133143
+CA056140X,Moorpark Police Department,California,CA,Pacific,West,Region IV,VENTURA,City,False,,,
+CA0561500,Department of Parks and Recreation: Channel Coast,California,CA,Pacific,West,Region IV,VENTURA,Other State Agency,False,,34.358741,-119.133143
+CA0561700,Department of Parks and Recreation: Hungry Valley,California,CA,Pacific,West,Region IV,VENTURA,Other State Agency,False,,34.358741,-119.133143
+CA0562100,Union Pacific Railroad: Ventura County,California,CA,Pacific,West,Region IV,VENTURA,Other,False,,34.358741,-119.133143
+CA0562200,California State University: Channel Islands,California,CA,Pacific,West,Region IV,VENTURA,University or College,False,,34.183487,-119.04012
+CA056800X,Ventura County Community College District,California,CA,Pacific,West,Region IV,VENTURA,University or College,False,,,
+CA0569900,Highway Patrol: Ventura County,California,CA,Pacific,West,Region IV,VENTURA,State Police,False,,34.261433,-119.23135
+CA0570000,Yolo County Sheriff's Office,California,CA,Pacific,West,Region IV,YOLO,County,False,,38.679595,-121.902444
+CA0570100,Davis Police Department,California,CA,Pacific,West,Region IV,YOLO,City,False,,38.679595,-121.902444
+CA0570200,Winters Police Department,California,CA,Pacific,West,Region IV,YOLO,City,False,,38.521507,-121.97047
+CA0570300,Woodland Police Department,California,CA,Pacific,West,Region IV,YOLO,City,False,,38.679595,-121.902444
+CA0570400,West Sacramento Police Department,California,CA,Pacific,West,Region IV,YOLO,City,False,,38.679595,-121.902444
+CA057050X,Union Pacific Railroad: Yolo County,California,CA,Pacific,West,Region IV,YOLO,Other,False,,37.798763,-122.24971
+CA0579700,University of California: Davis,California,CA,Pacific,West,Region IV,YOLO,University or College,False,,38.679595,-121.902444
+CA0579900,Highway Patrol: Yolo County,California,CA,Pacific,West,Region IV,YOLO,State Police,False,,38.679595,-121.902444
+CA0580000,Yuba County Sheriff's Office,California,CA,Pacific,West,Region IV,YUBA,County,False,,39.270026,-121.34428
+CA0580100,Marysville Police Department,California,CA,Pacific,West,Region IV,YUBA,City,False,,39.270026,-121.34428
+CA0580200,Wheatland Police Department,California,CA,Pacific,West,Region IV,YUBA,City,False,,39.270026,-121.34428
+CA058030X,Union Pacific Railroad: Yuba County,California,CA,Pacific,West,Region IV,YUBA,Other,False,,37.798763,-122.24971
+CA0589900,Highway Patrol: Yuba County,California,CA,Pacific,West,Region IV,YUBA,State Police,False,,39.144722,-121.64491
+CADI03900,Blue Lake Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,False,2021-01-01T00:00:00.000Z,,
+CADI0990X,La Jolla Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,False,2021-01-01T00:00:00.000Z,,
+CADIT0000,Tule River Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,False,,36.228824,-118.781061
+CADIT0200,Yurok Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,41.749903,-123.980998
+CADIT0400,Sycuan Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,,
+CADIT0500,Los Coyotes Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,False,,,
+CADIT0800,Hoopa Valley Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,False,,40.706673,-123.925818
+CADIT0900,Coyote Valley Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,False,,,
+CADIT1100,Table Mountain Rancheria,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,,
+CADIT1400,San Pasqual Band of Mission Indians Tribal,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,,
+CADIT1600,Bear River Band,California,CA,Pacific,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,,
